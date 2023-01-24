@@ -1,0 +1,8 @@
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\EventHandlerGyakorlat\EventHandlerGyakorlat\bin\Debug\EventHandlerGyakorlat.exe.config
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\EventHandlerGyakorlat\EventHandlerGyakorlat\bin\Debug\EventHandlerGyakorlat.exe
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\EventHandlerGyakorlat\EventHandlerGyakorlat\bin\Debug\EventHandlerGyakorlat.pdb
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\EventHandlerGyakorlat\EventHandlerGyakorlat\obj\Debug\EventHandlerGyakorlat.csproj.AssemblyReference.cache
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\EventHandlerGyakorlat\EventHandlerGyakorlat\obj\Debug\EventHandlerGyakorlat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\EventHandlerGyakorlat\EventHandlerGyakorlat\obj\Debug\EventHandlerGyakorlat.csproj.CoreCompileInputs.cache
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\EventHandlerGyakorlat\EventHandlerGyakorlat\obj\Debug\EventHandlerGyakorlat.exe
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\EventHandlerGyakorlat\EventHandlerGyakorlat\obj\Debug\EventHandlerGyakorlat.pdb
